@@ -1,9 +1,7 @@
 package com.emmazarate.app;
 
-/**
- * Hello world!
- *
- */
+import com.emmazarate.app.room.Room;
+
 public class App 
 {
     public static void main( String[] args )
